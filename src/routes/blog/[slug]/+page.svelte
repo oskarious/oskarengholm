@@ -5,6 +5,4 @@
 	let Content = $derived(data.content);
 </script>
 
-<article>
-	<Content />
-</article>
+<Content />

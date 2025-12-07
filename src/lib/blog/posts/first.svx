@@ -1,9 +1,0 @@
----
-title: My first post
-date: 2025-01-01
-layout: blog
----
-
-# Hello from MDsveX
-
-This **Markdown** file is now also **Svelte**, so you can write components:

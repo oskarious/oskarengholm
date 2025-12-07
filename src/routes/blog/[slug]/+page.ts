@@ -12,6 +12,7 @@ export const load: PageLoad = async ({ params }) => {
 			metadata: post.metadata
 		};
 	} catch (e) {
+		console.error(e);
 		throw error(404, `Post not found: ${params.slug}`);
 	}
 };
@@ -19,8 +20,10 @@ export const load: PageLoad = async ({ params }) => {
 export async function entries() {
 	const posts = import.meta.glob('../../../lib/blog/posts/*.svx');
 	
-	return Object.keys(posts).map((path) => {
-		const slug = path.split('/').pop()?.replace('.svx', '');
-		return { slug };
-	});
+	return Object.keys(posts)
+		.map((path) => {
+			const slug = path.split('/').pop()?.replace('.svx', '');
+			return slug ? { slug } : null;
+		})
+		.filter((entry): entry is { slug: string } => entry !== null);
 }
