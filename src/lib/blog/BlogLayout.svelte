@@ -4,6 +4,7 @@
 
 	interface Props {
 		title?: string;
+        description?: string;
 		date?: string;
 		tags?: string;
 		visibleTags?: string;
@@ -11,7 +12,7 @@
 		thumbnail?: string;
 	}
 
-	let { title, date, tags, visibleTags, children, thumbnail }: Props = $props();
+	let { title, description, date, tags, visibleTags, children, thumbnail }: Props = $props();
 	// svelte-ignore state_referenced_locally
 	let splitTags = tags?.split(',').map((tag) => tag.trim()) || [];
 	// svelte-ignore state_referenced_locally
@@ -22,11 +23,11 @@
 
 <svelte:head>
     <title>{title}</title>
-    <meta name="description" content="Blog post about {title}" />
     <meta property="og:title" content={title} />
     <meta property="twitter:title" content={title} />
-    <meta property="og:description" content="Blog post about {title}" />
-    <meta property="twitter:description" content="Blog post about {title}" />
+    <meta name="description" content="{description}" />
+    <meta property="og:description" content="{description}" />
+    <meta property="twitter:description" content="{description}" />
     <meta property="article:published_time" content={date} />
     {#if absoluteThumbnail}
         <meta property="og:image" content={absoluteThumbnail} />

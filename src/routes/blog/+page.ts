@@ -2,9 +2,11 @@ import type { PageLoad } from './$types';
 
 interface PostMetadata {
 	title: string;
+    description: string;
 	date: string;
 	layout?: string;
 	tags?: string;
+    visibleTags?: string;
 	thumbnail?: string;
 }
 

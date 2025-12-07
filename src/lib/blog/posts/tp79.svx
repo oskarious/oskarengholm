@@ -1,5 +1,6 @@
 ---
 title: TP 79
+description: Building a swedish TP79 scale model
 date: 2025-12-07
 layout: blog
 tags: model,plane,dc-3,tp79
