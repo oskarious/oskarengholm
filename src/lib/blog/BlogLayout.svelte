@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { page } from '$app/state';
+	import { PUBLIC_URL } from '$env/static/public';
 	import type { Snippet } from 'svelte';
 
 	interface Props {
@@ -17,9 +17,7 @@
 	// svelte-ignore state_referenced_locally
 	let splitVisibleTags = visibleTags?.split(',').map((tag) => tag.trim()) || [];
 
-	let absoluteThumbnail = $derived(
-		thumbnail ? new URL(thumbnail, page.url.origin).href : undefined
-	);
+	let absoluteThumbnail = $derived(thumbnail ? `${PUBLIC_URL}${thumbnail}` : undefined);
 </script>
 
 <svelte:head>
