@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div class="container mx-auto px-4">
+	<p>
+		A place where I host my <a href="/blog" class="text-blue-600 hover:underline">blog</a> and other projects.
+	</p>
+</div>
