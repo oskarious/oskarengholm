@@ -1,5 +1,5 @@
 ---
-title: TP 79
+title: TP 79 1/72
 description: Building a swedish TP79 scale model
 date: 2025-12-07
 layout: blog
@@ -10,40 +10,61 @@ thumbnail: /blog/posts/tp79/11.webp
 
 ![Tp79 scale model](/blog/posts/tp79/11.webp)
 
-This build started in september. I bought an [Airfix Douglas Dakota Mk.IV kit](https://www.scalemates.com/kits/airfix-a08015-douglas-dakota-mkiv--258798) secondhand on a whim. Initially I was planning on building one of the variants included with the box, but after a visit to the Flygvapenmusem (air force musem) in Linköping, I decided to "convert" it to a TP79 instead.
+## Overview
 
-The kit is not the best I have ever built, but there are some highlights. The panel lines, and (some of) the details are well defined.
+This build started in september. I bought an [Airfix Douglas Dakota Mk.IV 1/72 kit](https://www.scalemates.com/kits/airfix-a08015-douglas-dakota-mkiv--258798) secondhand on a whim. Initially I was planning on building one of the variants included with the box, but after a visit to the Flygvapenmusem (air force musem) in Linköping, I decided to "convert" it to a TP79 instead.
+
+The kit is not the best I have ever built, both in terms of my skill and the kit quality, but there are some highlights. The panel lines, and (some of) the details are well defined.
 
 ---
+
+## History
+
+The Swedish Air Force designated the Douglas DC-3 as TP 79, adopting the type beginning in 1948 and operating a total of eight aircraft over more than three decades. These aircraft served in a wide range of roles, including signals intelligence missions conducted together with FRA, scientific research in cooperation with FOA, paratrooper and radio-operator training, personnel and cargo transport, and various test and development tasks. One TP 79, the intelligence-configured 79001, was shot down by Soviet fighters in 1952 during a reconnaissance flight over the Baltic Sea - an incident that triggered a diplomatic crisis and led to the loss of a Swedish Catalina search aircraft as well.
+
+![TP79s at torslanda](https://upload.wikimedia.org/wikipedia/commons/0/04/Douglas_C-47A%2C_Tp_79%2C_Torslanda.jpg)
+_TP79s at Torslanda, Wikimedia Commons_
+
+Throughout the 1950s to early 1980s, the TP 79 became a versatile and dependable workhorse for the Swedish Air Force, supporting both domestic operations and international missions on behalf of the UN and Red Cross. A few aircraft were lost in accidents over the years, and by the early 1980s the type was gradually phased out as the C-130 Hercules replaced it. The last TP 79s were retired between 1981 and 1984, concluding nearly forty years of service.
+
+---
+
+## Build
 
 Below follows some images of the build. Unfortunately a lot of in progress images are missing.
 The build process:
 
 - Build and paint the interior
 - Build the main parts of the plane (excluding gear, props, doors etc.)
-- Black base and preshade the body, a sort of inverted preshading step where instead of picking out panel lines with black paint, I paint the flat areas (mostly panels in this case) light. I painted most panels with a white paint, then picked some of the rest at random to paint with a very light sky blue and an orange. The color variation did not show up very, if at all, in the final paint job. I will try again but with stronger colors for some more variation.
-- Finish and paint the other parts - gear, doors etc.
-- Assemble and spray 1 layer gloss coat.
-- Add decals. The swedish AF roundels are from Maestro Decals (MMD7220) and the numbers from FCA Decals (48-002). The roundels are unfortunately not great. They ripped easily and the print quality looked as if it was printed on an inkjet, with spotty color coverage in the filled areas. Below is an attached image, of not fantastic quality, of the largest roundel in the set - 1800mm which I used for the wings. As you might see, the blue is sort of noisy in it's color coverage.
-  ![Decal with poor print quality](/blog/posts/tp79/12.webp)
-- More gloss coat
-- Weather
-- Matte coat
-- Attach the landing light clear plastic
-- Finish 😊
 
-Initial build, Interior painted
 ![Initial build](/blog/posts/tp79/01.webp)
 ![Initial build](/blog/posts/tp79/02.webp)
 ![Initial build](/blog/posts/tp79/03.webp)
 ![Initial build](/blog/posts/tp79/04.webp)
 ![Initial build](/blog/posts/tp79/05.webp)
 ![Initial build](/blog/posts/tp79/06.webp)
-Paint job finished
+
+- Black base and preshade the body, a sort of inverted preshading step where instead of picking out panel lines with black paint, I paint the flat areas (mostly panels in this case) light. I painted most panels with a white paint, then picked some of the rest at random to paint with a very light sky blue and an orange. The color variation did not show up very, if at all, in the final paint job. I will try again but with stronger colors for some more variation.
+- Paint the body
+
 ![Paint job finished](/blog/posts/tp79/07.webp)
 ![Paint job finished](/blog/posts/tp79/08.webp)
-Painting the props, yellow tips masked off
+
+- Finish and paint the other parts - gear, doors etc.
+
 ![Painting the props](/blog/posts/tp79/09.webp)
-Started weathering, panel lining the wings
+
+- Assemble and spray 1 layer gloss coat. I decided to keep the front door, and one of the main doors open. Initially I had planned to have both of the main doors open, but I thought it would be more interesting to keep one of them closed.
+- Add decals. The swedish AF roundels are from Maestro Decals (MMD7220) and the numbers from FCA Decals (48-002). The roundels are unfortunately not great. They ripped easily and the print quality looked as if it was printed on an inkjet, with spotty color coverage in the filled areas. Below is an attached image, of not fantastic quality, of the largest roundel in the set - 1800mm which I used for the wings. As you might see, the blue is sort of noisy in it's color coverage.
+
+![Decal with poor print quality](/blog/posts/tp79/12.webp)
+
+- More gloss coat
+- Weather
+
 ![Started weathering](/blog/posts/tp79/10.webp)
 ![Started weathering](/blog/posts/tp79/11.webp)
+
+- Matte coat
+- Attach the landing light clear plastic
+- Finish 😊
