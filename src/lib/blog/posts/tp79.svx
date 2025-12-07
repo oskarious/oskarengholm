@@ -14,18 +14,18 @@ thumbnail: /blog/posts/tp79/11.webp
 
 This build started in september. I bought an [Airfix Douglas Dakota Mk.IV 1/72 kit](https://www.scalemates.com/kits/airfix-a08015-douglas-dakota-mkiv--258798) secondhand on a whim. Initially I was planning on building one of the variants included with the box, but after a visit to the Flygvapenmusem (air force musem) in Linköping, I decided to "convert" it to a TP79 instead.
 
-The kit is not the best I have ever built, both in terms of my skill and the kit quality, but there are some highlights. The panel lines, and (some of) the details are well defined.
+The kit is not the best I have ever built, both in terms of my skill and the kit quality (bent parts on the sprue for example), but there are some highlights. The panel lines, and (some of) the details are well defined.
 
 ---
 
 ## History
 
-The Swedish Air Force designated the Douglas DC-3 as TP 79, adopting the type beginning in 1948 and operating a total of eight aircraft over more than three decades. These aircraft served in a wide range of roles, including signals intelligence missions conducted together with FRA, scientific research in cooperation with FOA, paratrooper and radio-operator training, personnel and cargo transport, and various test and development tasks. One TP 79, the intelligence-configured 79001, was shot down by Soviet fighters in 1952 during a reconnaissance flight over the Baltic Sea - an incident that triggered a diplomatic crisis and led to the loss of a Swedish Catalina search aircraft as well.
+The Swedish Air Force designated the Douglas DC-3 as **TP 79**, adopting the type beginning in 1948 and operating eight aircraft in a wide range of roles. Several TP 79s were configured for advanced signals intelligence in cooperation with FRA, and these aircraft became crucial assets during the Cold War - effectively serving as producers of one of Sweden’s most important “exports” to the West at the time: high-value intelligence on the Eastern Bloc. One intelligence-configured TP 79, 79001, was shot down by Soviet fighters in 1952 during a reconnaissance mission over the Baltic Sea, an incident that triggered a diplomatic crisis and the subsequent downing of a Swedish Catalina search aircraft.
 
 ![TP79s at torslanda](https://upload.wikimedia.org/wikipedia/commons/0/04/Douglas_C-47A%2C_Tp_79%2C_Torslanda.jpg)
 _TP79s at Torslanda, Wikimedia Commons_
 
-Throughout the 1950s to early 1980s, the TP 79 became a versatile and dependable workhorse for the Swedish Air Force, supporting both domestic operations and international missions on behalf of the UN and Red Cross. A few aircraft were lost in accidents over the years, and by the early 1980s the type was gradually phased out as the C-130 Hercules replaced it. The last TP 79s were retired between 1981 and 1984, concluding nearly forty years of service.
+Beyond their intelligence duties, TP 79s supported scientific research with FOA, paratrooper and radio-operator training, personnel and cargo transport, and various development and test activities. From the 1950s through the early 1980s, the TP 79 served as a versatile and dependable workhorse for the Swedish Air Force, also participating in UN and Red Cross missions abroad. As newer aircraft such as the C-130 Hercules entered service, the TP 79 was gradually phased out, with the final aircraft retired between 1981 and 1984 - ending nearly four decades of service.
 
 ---
 
