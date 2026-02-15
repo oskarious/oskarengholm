@@ -1,1 +1,0 @@
-import{f as e,a as r}from"../chunks/X3ZGGLnL.js";import"../chunks/cc4R32Tb.js";var t=e('<div class="container mx-auto px-4"><p>A place where I host my <a href="/blog" class="text-blue-600 hover:underline">blog</a> and other projects.</p></div>');function s(o){var a=t();r(o,a)}export{s as component};

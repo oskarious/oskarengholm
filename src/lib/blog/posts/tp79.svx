@@ -4,7 +4,7 @@ description: Building a swedish TP79 scale model
 date: 2025-12-07
 layout: blog
 tags: model,plane,dc-3,tp79
-visibleTags: In progress, Model, Aircraft
+visibleTags: Finished, Model, Aircraft
 thumbnail: /blog/posts/tp79/11.webp
 ---
 
