@@ -8,6 +8,7 @@ visibleTags: In progress, Model, Aircraft
 thumbnail: /blog/posts/SpitfireMkVB/01.webp
 
 ---
+![Box](/blog/posts/SpitfireMkVB/01.webp)
 ## [Italeri Spitfire Mk.V / Mk.IX Aces](https://www.italeri.com/en/product/3186)
 
 This project started with me wanting to build the Swedish S31 reconnaissance aircraft.
